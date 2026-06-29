@@ -6,7 +6,7 @@ Lisää oma datasi riveille
 
 Tulkinta:
 
-z kertoo muutoksen suuruuden, suurempi == suurempi muutos
+z kertoo muutoksen suuruuden, suurempi itseisarvo == suurempi muutos
 p kertoo muutoksen tilastollisen merkitsevyyden
 
 bonferroni-korjaus kertoo p-arvon kolmella, jos vertaillaan kolmea eri vuotta; tällä ei taida olla merkitystä jos instansseja on vain kaksi
